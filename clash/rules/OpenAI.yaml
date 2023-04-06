@@ -1,4 +1,4 @@
-payloads:
+payload:
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,vimeo.com
