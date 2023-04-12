@@ -1,2 +1,3 @@
 payload:
   - 'rapidgator.net'
+  - '+.rapidgator.net'
