@@ -1,0 +1,8 @@
+ payload:
+   - 'bing.com'
+   - 'bing.com.cn'
+   - 'bing.net'
+   - 'bingads.com'
+   - 'bingagencyawards.com'
+   - 'bingapistatistics.com'
+   - 'bingsandbox.com'
