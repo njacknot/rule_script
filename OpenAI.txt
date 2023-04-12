@@ -1,0 +1,9 @@
+payload:
+  - 'ai.com'
+  - 'openai.com'
+  - 'vimeo.com'
+  - 'vimeocdn.com'
+  - 'hcaptcha.com'
+  - 'akamaized.com'
+  - 'cdn.auth0.com'
+  - 'openaiapi-site.azureedge.net'
