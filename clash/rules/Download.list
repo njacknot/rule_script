@@ -1,10 +1,5 @@
 payload:
 DOMAIN-SUFFIX,qbittorrent.org
-DOMAIN-KEYWORD,aria2
-DOMAIN-KEYWORD,thunder
-DOMAIN-KEYWORD,xlliveud
-DOMAIN-KEYWORD,xunlei
-DOMAIN-KEYWORD,yunpan
 PROCESS-NAME,aria2c
 PROCESS-NAME,aria2c.exe
 PROCESS-NAME,baidunetdisk.exe
