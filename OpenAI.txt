@@ -1,6 +1,7 @@
 payload:
   - 'ai.com'
   - 'openai.com'
+  - 'chat.openai.com'
   - 'vimeo.com'
   - 'vimeocdn.com'
   - 'hcaptcha.com'
