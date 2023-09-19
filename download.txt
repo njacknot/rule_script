@@ -1,3 +1,5 @@
 payload:
   - 'rapidgator.net'
   - '+.rapidgator.net'
+  - 'rg.to'
+  - '+.rg.to'
