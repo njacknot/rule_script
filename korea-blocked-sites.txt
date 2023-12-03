@@ -1,4 +1,5 @@
 payload:
+   - 'imgur.com'
    - 'xvideos.com'
    - 'pornhub.com'
    - 'xnxx.com'
