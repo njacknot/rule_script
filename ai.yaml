@@ -6,6 +6,7 @@
       - DOMAIN-SUFFIX,meta.ai
       - DOMAIN-SUFFIX,imagine.meta.com
       - DOMAIN-SUFFIX,llama.meta.com
+      - DOMAIN-SUFFIX,metaaivm.com
 
       # --- OpenAI & ChatGPT & Sora ---
       - DOMAIN-SUFFIX,ai.com
