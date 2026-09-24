@@ -1,0 +1,155 @@
+# NAME: AI
+    # UPDATED: 2026-09-24 (全面增强版)
+    payload:
+      # --- Meta AI & Muse ---
+      - DOMAIN-SUFFIX,muse.ai
+      - DOMAIN-SUFFIX,meta.ai
+      - DOMAIN-SUFFIX,imagine.meta.com
+      - DOMAIN-SUFFIX,llama.meta.com
+
+      # --- OpenAI & ChatGPT & Sora ---
+      - DOMAIN-SUFFIX,ai.com
+      - DOMAIN-SUFFIX,chatgpt.com
+      - DOMAIN-SUFFIX,openai.com
+      - DOMAIN-SUFFIX,sora.com
+      - DOMAIN-SUFFIX,searchgpt.com
+      - DOMAIN-SUFFIX,oaistatic.com
+      - DOMAIN-SUFFIX,oaiusercontent.com
+      - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+      - DOMAIN-SUFFIX,openaicom.imgix.net
+      - DOMAIN,chat.openai.com.cdn.cloudflare.net
+      - DOMAIN,openai-api.arkoselabs.com
+      - DOMAIN-SUFFIX,client-api.arkoselabs.com
+      - DOMAIN-SUFFIX,chatgpt.livekit.cloud
+      - DOMAIN-SUFFIX,host.livekit.cloud
+      - DOMAIN-SUFFIX,turn.livekit.cloud
+
+      # --- Anthropic & Claude ---
+      - DOMAIN-SUFFIX,anthropic.com
+      - DOMAIN-SUFFIX,claude.ai
+      - DOMAIN-SUFFIX,claude.com
+      - DOMAIN-SUFFIX,claudeusercontent.com
+
+      # --- Google AI & Gemini & NotebookLM ---
+      - DOMAIN,ai.google.dev
+      - DOMAIN,aistudio.google.com
+      - DOMAIN,bard.google.com
+      - DOMAIN,gemini.google.com
+      - DOMAIN,makersuite.google.com
+      - DOMAIN,notebooklm.google.com
+      - DOMAIN,generativelanguage.googleapis.com
+      - DOMAIN,alkalimakersuite-pa.clients6.google.com
+      - DOMAIN,proactivebackend-pa.googleapis.com
+      - DOMAIN-SUFFIX,deepmind.com
+      - DOMAIN-SUFFIX,deepmind.google
+      - DOMAIN-SUFFIX,generativeai.google
+      - DOMAIN-SUFFIX,notebooklm.google
+
+      # --- xAI / Grok ---
+      - DOMAIN-SUFFIX,x.ai
+      - DOMAIN-SUFFIX,grok.com
+
+      # --- Microsoft Copilot ---
+      - DOMAIN-SUFFIX,copilot.microsoft.com
+      - DOMAIN-SUFFIX,copilot.cloud.microsoft
+      - DOMAIN,sydney.bing.com
+      - DOMAIN-SUFFIX,ai.azure.com
+
+      # --- AI Search Engines ---
+      - DOMAIN-SUFFIX,perplexity.ai
+      - DOMAIN-SUFFIX,pplx.ai
+      - DOMAIN-SUFFIX,genspark.ai
+      - DOMAIN-SUFFIX,phind.com
+      - DOMAIN-SUFFIX,you.com
+      - DOMAIN-SUFFIX,felo.ai
+
+      # --- AI Coding & Autonomous Agents ---
+      - DOMAIN-SUFFIX,cursor.com
+      - DOMAIN-SUFFIX,cursor.sh
+      - DOMAIN-SUFFIX,cursorapi.com
+      - DOMAIN-SUFFIX,windsurf.com
+      - DOMAIN-SUFFIX,codeium.com
+      - DOMAIN-SUFFIX,supermaven.com
+      - DOMAIN-SUFFIX,v0.dev
+      - DOMAIN-SUFFIX,augmentcode.com
+      - DOMAIN-SUFFIX,devin.ai
+      - DOMAIN-SUFFIX,cognition.ai
+      - DOMAIN-SUFFIX,cognition-labs.com
+      - DOMAIN-SUFFIX,bolt.new
+      - DOMAIN-SUFFIX,lovable.dev
+      - DOMAIN-SUFFIX,replit.com
+      - DOMAIN-SUFFIX,replit.dev
+      - DOMAIN,api.githubcopilot.com
+      - DOMAIN,copilot-proxy.githubusercontent.com
+      - DOMAIN-SUFFIX,jetbrains.ai
+      - DOMAIN-SUFFIX,grazie.ai
+      - DOMAIN-SUFFIX,grazie.aws.intellij.net
+
+      # --- Image / Video / 3D Generation ---
+      - DOMAIN-SUFFIX,midjourney.com
+      - DOMAIN-SUFFIX,leonardo.ai
+      - DOMAIN-SUFFIX,stability.ai
+      - DOMAIN-SUFFIX,clipdrop.co
+      - DOMAIN-SUFFIX,runway.com
+      - DOMAIN-SUFFIX,runwayml.com
+      - DOMAIN-SUFFIX,pika.art
+      - DOMAIN-SUFFIX,luma.ai
+      - DOMAIN-SUFFIX,ideogram.ai
+      - DOMAIN-SUFFIX,krea.ai
+      - DOMAIN-SUFFIX,recraft.ai
+      - DOMAIN-SUFFIX,civitai.com
+      - DOMAIN-SUFFIX,klingai.com
+      - DOMAIN-SUFFIX,klingai.org
+      - DOMAIN-SUFFIX,hailuoai.com
+      - DOMAIN-SUFFIX,hailuoai.video
+      - DOMAIN-SUFFIX,minimax.io
+      - DOMAIN-SUFFIX,fal.ai
+      - DOMAIN-SUFFIX,fal.media
+
+      # --- Voice / Music AI ---
+      - DOMAIN-SUFFIX,elevenlabs.io
+      - DOMAIN-SUFFIX,suno.com
+      - DOMAIN-SUFFIX,suno.ai
+      - DOMAIN-SUFFIX,udio.com
+      - DOMAIN-SUFFIX,cartesia.ai
+      - DOMAIN-SUFFIX,fish.audio
+      - DOMAIN-SUFFIX,play.ht
+
+      # --- Productivity & Meeting AI ---
+      - DOMAIN-SUFFIX,gamma.app
+      - DOMAIN-SUFFIX,granola.so
+      - DOMAIN-SUFFIX,granola.ai
+      - DOMAIN-SUFFIX,otter.ai
+      - DOMAIN-SUFFIX,fathom.video
+      - DOMAIN-SUFFIX,fireflies.ai
+
+      # --- Inference Platforms & Aggregators ---
+      - DOMAIN-SUFFIX,groq.com
+      - DOMAIN-SUFFIX,openrouter.ai
+      - DOMAIN-SUFFIX,mistral.ai
+      - DOMAIN-SUFFIX,together.ai
+      - DOMAIN-SUFFIX,together.xyz
+      - DOMAIN-SUFFIX,deepinfra.com
+      - DOMAIN-SUFFIX,cerebras.ai
+      - DOMAIN-SUFFIX,fireworks.ai
+      - DOMAIN-SUFFIX,replicate.com
+      - DOMAIN-SUFFIX,huggingface.co
+      - DOMAIN-SUFFIX,hf.space
+      - DOMAIN-SUFFIX,poe.com
+      - DOMAIN-SUFFIX,coze.com
+      - DOMAIN-SUFFIX,dify.ai
+
+      # --- Apple Intelligence (Private Cloud Compute) ---
+      - DOMAIN-SUFFIX,apple-relay.apple.com
+      - DOMAIN-SUFFIX,apple-relay.cloudflare.com
+      - DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+      - DOMAIN-SUFFIX,mask.apple-dns.net
+      - DOMAIN-SUFFIX,mask-h2.icloud.com
+
+      # --- Common Auth & Analytics Dependencies ---
+      - DOMAIN-SUFFIX,auth0.com
+      - DOMAIN-SUFFIX,identrust.com
+      - DOMAIN-SUFFIX,intercom.io
+      - DOMAIN-SUFFIX,intercomcdn.com
+      - DOMAIN-SUFFIX,featuregates.org
+      - DOMAIN-SUFFIX,statsigapi.net
